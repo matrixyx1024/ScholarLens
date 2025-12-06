@@ -1,0 +1,5 @@
+{
+  "name": "ScholarLens (学术透镜)",
+  "description": "一个帮助用户深度理解学术论文的智能助手。支持PDF上传分析，提供核心摘要、创新点提取、公式解释及多轮问答功能。",
+  "requestFramePermissions": []
+}
